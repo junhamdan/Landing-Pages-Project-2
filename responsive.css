@@ -1,0 +1,154 @@
+@media only screen and (max-width: 992px) {
+
+    /* Navbar */
+    .collapse {
+        margin: 0;
+    }
+
+    .navbar-collapse {
+        text-align: center;
+    }
+
+    .nav-item {
+        margin: 0;
+        margin-top: 15px;
+    }
+
+
+    /* NAVBAR */
+
+    /* Banner */
+    #banner h1 {
+        text-align: center;
+        font-size: 77px;
+        line-height: 1.5;
+    }
+
+    #banner button {
+        float: none;
+    }
+
+    #banner svg {
+        width: 110%;
+
+    }
+
+    /* About */
+    #about {
+        margin-top: -10%;
+        width: 100%;
+    }
+
+    .ball {
+        position: absolute;
+        width: 108px;
+        height: 226px;
+        margin-top: -20%;
+        margin-bottom: -100px;
+        left: 0;
+    }
+
+    /* Our Service */
+
+    .box2 {
+        margin: 0;
+    }
+
+    .box2 {
+        margin: 0;
+    }
+
+    .box3 {
+        margin-top: 20px;
+    }
+
+    .arrow {
+        visibility: hidden;
+    }
+
+    .halfBg {
+        margin-top: -110%;
+        height: 90vh;
+        border: none;
+    }
+
+    .containerx {
+        margin-top: -1px;
+    }
+}
+
+
+@media only screen and (max-width: 576px) {
+
+
+    /* Banner */
+    #banner h1 {
+        text-align: center;
+        font-size: 80px;
+    }
+
+    #banner button {
+        float: none;
+    }
+
+    #banner svg {
+        width: 100%;
+        margin-top: -50px;
+    }
+
+    /* Banner */
+
+    /* About */
+    #about {
+        margin-top: 80%;
+        width: 100%;
+    }
+
+    .ball {
+        position: relative;
+        width: 69px;
+        height: 138px;
+        margin-top: -15%;
+        margin-bottom: -100px;
+    }
+
+    /* About */
+
+    /* Our Service */
+
+    .box1 {
+        margin: 0;
+    }
+
+    .box2 {
+        margin-right: 0;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .halfBg {
+        margin-top: -350%;
+        height: 170vh;
+    }
+
+    /* Our Service */
+
+    /* newsletter */
+    .newsletter h5 {
+        text-align: center;
+    }
+
+    .newsletter h1 {
+        text-align: center;
+        margin-top: 0;
+    }
+
+    /* newsletter */
+
+    /* Footer */
+    .footer {
+        text-align: center;
+    }
+
+
+}
